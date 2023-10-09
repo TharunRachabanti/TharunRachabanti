@@ -5,7 +5,7 @@
 <h3 align="center">Expertise in Programming, App Development, Web Development, and Cutting-Edge Technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharun-1&label=Profile%20views&color=0e75b6&style=flat" alt="tharun-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-1&theme=dark_lover" alt="tharun-1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TharunRachabanti&theme=dark_lover" alt="TharunRachabanti" /></a> </p>
 
 - 🔭 I’m currently working on **App Developmenet**
 - 🌱 I’m currently learning ** React-JS, Node-JS**
@@ -62,11 +62,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun-1&layout=compact&theme=dark" alt=tharun-1 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunRachabanti&layout=compact&theme=dark" alt=TharunRachabanti />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tharun-1&show_icons=true&locale=en&theme=dark" alt="tharun-1" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tharun-1&show_icons=true&locale=en&theme=dark" alt="TharunRachabanti" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-1&theme=dark" alt="tharun-1" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-1&theme=dark" alt="TharunRachabanti" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
